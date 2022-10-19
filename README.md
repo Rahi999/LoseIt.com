@@ -14,7 +14,7 @@ An Individual-Mern Project, Completed Within 4 Days Of Hard Working Which used F
   <li>Chakra-Icons</li>
   <li>NPM</li>
   <li>GIT</li>
-  <li>NETLIFY & VERCEL</li>
+  <li>Netlify & Vercel</li>
 </ul>
 
 <p>Areas of Responsibility :</p>
